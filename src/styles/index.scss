@@ -1,2 +1,6 @@
 @import url("./normalize.css");
 @import "~antd/dist/antd.css";
+
+.ant-row:first-child {
+  margin: 50px 0;
+}
