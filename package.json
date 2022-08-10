@@ -11,9 +11,7 @@
     "react.js",
     "redux",
     "scss",
-    "axios",
-    "redux-thunk",
-    "thunk"
+    "axios"
   ],
   "description": "Frontend React App",
   "license": "MIT",
@@ -35,7 +33,6 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "redux": "^4.2.0",
-    "redux-thunk": "^2.4.1",
     "sass": "^1.54.4"
   },
   "scripts": {
